@@ -10,7 +10,6 @@ n = randint(1, 20)
 print(n)
 print(get_dict(n))
 
-
 # Вариант 2
 import os
 #from typing import Dict

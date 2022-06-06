@@ -18,7 +18,6 @@ print (get_degree(n))
 #     else:
 #         list.append(-3**i)
 # print(list)
-
 # Вариант 3
 # import os
 # os.system("cls")

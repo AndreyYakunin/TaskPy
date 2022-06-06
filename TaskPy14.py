@@ -11,7 +11,6 @@ def sum_digit(n):
 print('Задано число:', n)
 print('Сумма цифр данного числа равна:', sum_digit(n))
 
-
 # Вариант 2
 import  os
 import random
